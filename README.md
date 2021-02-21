@@ -5,7 +5,7 @@
 
 | Operating System | Links |
 |----------|---------|
-| Ubuntu Linux | https://ubuntu.com/download/desktop |
+| Ubuntu Linux | https://ubuntu.com/download/desktop/thank-you?version=20.04.2.0&architecture=amd64 |
 | Arch Linux | https://archlinux.org/releng/releases/2021.02.01/torrent/ |
 | Kali Linux | https://www.kali.org/downloads/ |
 
