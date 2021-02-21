@@ -7,7 +7,7 @@
 |----------|---------|
 | Ubuntu Linux | https://ubuntu.com/download/desktop/thank-you?version=20.04.2.0&architecture=amd64 |
 | Arch Linux | https://archlinux.org/releng/releases/2021.02.01/torrent/ |
-| Kali Linux | https://www.kali.org/downloads/ |
+| Kali Linux | https://images.kali.org/kali-linux-2020.4-installer-amd64.iso.torrent |
 
 ### REMINDERS
 #### 1. I did not provide iso distributions for Windows and MAC OS because it is one of the most widely preinstalled operating systems alongside MAC OS. Personally, I am not a big Windows fan either, so...
