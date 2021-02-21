@@ -3,11 +3,11 @@
 
 ![tumblr_msu0miicUw1s3wjuno1_500](https://user-images.githubusercontent.com/73013239/108625812-3a783080-7490-11eb-8144-0c243e145d36.gif)
 
-| Operating System              | Links                                                              |
-|----------------------------------------------------------------------------------------------------|
-| Ubuntu Linux                  |                                                                    |
-| Arch Linux                    |                                                                    |
-| Kali Linux                    |                                                                    |
+| Operating System | Links |
+|----------|---------|
+| Ubuntu Linux | https://archlinux.org/releng/releases/2021.02.01/torrent/ |
+| Arch Linux |                                                                    |
+| Kali Linux |                                                                    |
 
 ### REMINDERS
 #### 1. I did not provide iso distributions for Windows and MAC OS because it is one of the most widely preinstalled operating systems alongside MAC OS. Personally, I am not a big Windows fan either, so...
