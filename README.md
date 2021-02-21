@@ -5,9 +5,9 @@
 
 | Operating System | Links |
 |----------|---------|
-| Ubuntu Linux | https://archlinux.org/releng/releases/2021.02.01/torrent/ |
-| Arch Linux |                                                                    |
-| Kali Linux |                                                                    |
+| Ubuntu Linux | https://ubuntu.com/download/desktop |
+| Arch Linux | https://archlinux.org/releng/releases/2021.02.01/torrent/ |
+| Kali Linux | https://www.kali.org/downloads/ |
 
 ### REMINDERS
 #### 1. I did not provide iso distributions for Windows and MAC OS because it is one of the most widely preinstalled operating systems alongside MAC OS. Personally, I am not a big Windows fan either, so...
