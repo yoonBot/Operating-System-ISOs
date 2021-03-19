@@ -10,14 +10,14 @@
 | Black Arch Linux | https://ftp.halifax.rwth-aachen.de/blackarch/iso/blackarch-linux-full-2020.12.01-x86_64.iso |
 | Kali Linux | https://images.kali.org/kali-linux-2020.4-installer-amd64.iso.torrent |
 
-### REMINDERS
+### **`REMINDERS >`**
 #### 1. I did not provide iso distributions for Windows and MAC OS because it is one of the most widely preinstalled operating systems alongside MAC OS. Personally, I am not a big Windows fan either, so...
 #### 2. If you are using a Windows PC, be sure to disable "secure boot" in the BIOS settings. Be sure to look up your primary system's key instructions to enter boot menu/ bios environment
 #### 3. When you burn your iso to usb disk, you should install [BalenaEtcher](https://www.balena.io/etcher/). This program automatically formats the usb disk to match the input iso. 
 #### 4. For Arch Linux, instead of downloading the isos from mirrors in each respective country, I downloaded the torrent file and installed any free torrent file manager to unzip the torrent file. 
 #### 5. For Kali Linux and Black Arch Linux, I have booted each into each different usb drives. They are booted on "live persistence"
 
-### LIVE USB BOOT PERSISTENCE
+### **`LIVE USB BOOT PERSISTENCE >`**
 #### What is live persistence? - This helps you save files and any configurations of changes of what you did on the system onto your reserved usb drive partition. 
 #### So basically, everytime you boot into the operating system, even if you boot it onto a different device, all your credentials will remain saved onto the usb. 
 #### How do I reserve a persistence partition? 
