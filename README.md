@@ -1,4 +1,4 @@
-# <h1 align='center'> Operating-System-ISOs
+# <h1 align='center'> Operating-System-ISO Images
 ### A collection of operating system iso images for easier access. Anyone can download and dualboot/pure install on their primary machines. 
 
 ![tumblr_msu0miicUw1s3wjuno1_500](https://user-images.githubusercontent.com/73013239/108625812-3a783080-7490-11eb-8144-0c243e145d36.gif)
